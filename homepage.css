@@ -4,7 +4,7 @@
   font-size: inherit;
   font-weight: 800;
   font-family: inherit;
-  text-shadow: 10px 4px 4px rgba(255, 255, 255, 0.25);
+  text-shadow: 10px 4px 4px rgba(255, 255, 255, 0.45);
 }
 .cyber-fit-container {
   align-self: stretch;
@@ -16,7 +16,6 @@
 }
 .level-11 {
   position: relative;
-  text-align: center;
 }
 .animation-1716828621477-11 {
   height: 4.375rem;
@@ -64,6 +63,7 @@
   justify-content: flex-start;
   gap: var(--gap-48xl);
   max-width: 100%;
+  position: relative;
 }
 .giphy-2-11 {
   height: 20.5rem;
